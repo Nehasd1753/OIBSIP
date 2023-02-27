@@ -28,16 +28,16 @@
 <section class="home" id="home">
     <div class="social">
         <a href="https://github.com/VSD2911"><i class='bx bxl-github'></i></a>
-        <a href="https://www.instagram.com/vaishnavi__2911/"><i class='bx bxl-instagram'></i></a>
+        <a href="https://www.instagram.com/itznehuu._143/"><i class='bx bxl-instagram'></i></a>
         
-        <a href="https://www.linkedin.com/in/vaishnavi-dhinge/"target="_blank"><i class='bx bxl-linkedin' ></i></a>
+        <a href="https://www.linkedin.com/in/neha-desale/"target="_blank"><i class='bx bxl-linkedin' ></i></a>
     </div>
     <div class="home-img">
         <img src="main.png" alt="">
     </div>
     <div class="home-text">
         <span>Hello, I'm</span>
-        <h1>Vaishnavi Dhinge</h1>
+        <h1>Neha Desale</h1>
         <h2>Frontend Developer</h2>
         <p>Looking to deliver excellent web development skills in Web services, <br>And as a beginner exploring myself more into the Web World. </p>
         <a href="#contact" class="btn">Download CV</a>
@@ -57,21 +57,21 @@
             <img src="main.png" alt="">
         </div>
         <div class="about-text">
-            <p>Pursuing Third Year of B.Tech in Computer Science and Engineering branch from Sinhgad College of Engineering, Pune. Experienced in HTML, CSS, JavaScript, JAVA & C. Building my skills towards Web Development & looking for opportunities in Web World and IT zone.</p>
+            <p>Pursuing Third Year of B.Tech in Electronics and Telecommunication branch from SSVPS College of Engineering, Dhule. Experienced in HTML, CSS, JavaScript, JAVA & C. Building my skills towards Web Development & looking for opportunities in Web World and IT zone.</p>
             <div class="information">
                 <div class="info-box">
                     <i class='bx bxs-user'></i>
-                    <span>Name-Vaishnavi Dhinge</span>
+                    <span>Name-Neha Desale</span>
                 </div>
 
                 <div class="info-box">
                     <i class='bx bxs-phone'></i>
-                    <span>91+7620084028</span>
+                    <span>91+9518570862</span>
                 </div>
 
                 <div class="info-box">
                     <i class='bx bxs-envelope'></i>
-                    <span>vaishnavidhinge2911@gmail.com</span>
+                    <span>nehadesle170503@gmail.com</span>
                 </div>
             </div>
             <a href="#" class="btn">Download CV</a>
@@ -177,10 +177,10 @@
                          <div class="footer">
                                 <h2>Follow Us</h2>
                                 <div class="footer-social">
-                                    <a href="https://www.instagram.com/vaishnavi__2911/"><i class='bx bxl-instagram'></i></a>
+                                    <a href="https://www.instagram.com/itznehuu._143/"><i class='bx bxl-instagram'></i></a>
        
-                                    <a href="https://www.linkedin.com/in/vaishnavi-dhinge/"target="_blank"><i class='bx bxl-linkedin' ></i></a>
-                                    <a href="https://github.com/VSD2911"><i class='bx bxl-github'></i></a>
+                                    <a href="https://www.linkedin.com/in/neha-desale/"target="_blank"><i class='bx bxl-linkedin' ></i></a>
+                                    <a href="https:/https://github.com/Nehasd1753/OIBSIP"><i class='bx bxl-github'></i></a>
 
                                 </div>
 
